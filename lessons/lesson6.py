@@ -34,7 +34,7 @@
 
 # Example NOT
 # temp = 20
-# is_sunny = False
+# is_sunny = Fals
 
 # if temp >= 28 and  not is_sunny:
 #     print("It is HOT outside 🥵")
